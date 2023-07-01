@@ -1,0 +1,17 @@
+{
+  "ADS": {
+
+
+    "Interstitial_id": "ca-app-pub-8213235093557161/4367553325",
+    "banner_id": "ca-app-pub-8213235093557161/3466632676",
+    "Native": "ca-app-pub-8213235093557161/4396570964",
+
+    "Banner_idF": "dir id banner facebook",
+    "Interstitial_idF": "dir inter id facebook",
+    "Native_facebook": "dir native d facebook",
+
+    "key_iron": "dir hna key app d ironsource",
+
+    "networkAd": "admob"
+  }
+}
